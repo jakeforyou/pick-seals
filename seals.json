@@ -1,6 +1,8 @@
 {
  "schema": 1,
  "count": 56,
+ "picks": 56,
+ "readings": 0,
  "head": "40b1a42f47ee3e63ba0147758a7086bd1135ddfe06b7ea217944acad4d952ed2",
  "entries": [
   {
