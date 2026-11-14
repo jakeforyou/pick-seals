@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "count": 93,
+ "count": 96,
  "picks": 87,
- "readings": 6,
- "head": "b4a1b36209484528a5de034e3863c5964cbcb75109c0cb6eae2e096a6eed4123",
+ "readings": 9,
+ "head": "b4374d65ef94cf30f952453c11ef62178fd6f290692fd9fef087ec2c292ccd86",
  "entries": [
   {
    "n": 1,
@@ -562,6 +562,24 @@
    "hash": "4492c94dd53c8ac87b1792b8fc286304de70733441d21b6efce57d27dcb7b99f",
    "sealed_at": "2026-11-14T09:46:10-05:00",
    "link": "b4a1b36209484528a5de034e3863c5964cbcb75109c0cb6eae2e096a6eed4123"
+  },
+  {
+   "n": 94,
+   "hash": "ad1cf955845832f5baf68a64b8feb16c95501a610e1f5623c4f860b18e61a46f",
+   "sealed_at": "2026-11-14T11:36:05-05:00",
+   "link": "fadd0068cbd04a43ea3edfbe31520e8ac8c1f5143229401d6558653dcc0eec1c"
+  },
+  {
+   "n": 95,
+   "hash": "f3ef6a084552acaac47c8d503e6ca9a59cfaeefa83e14c37c1f5311c2278cc67",
+   "sealed_at": "2026-11-14T11:51:00-05:00",
+   "link": "96105ec15e290f884b83d46486158d935bfc96f672f0da9d920019e18e0605db"
+  },
+  {
+   "n": 96,
+   "hash": "ad86bb828c012483a96018f87426bd6b474c25dcbed25e48b1427894931148bb",
+   "sealed_at": "2026-11-14T12:06:11-05:00",
+   "link": "b4374d65ef94cf30f952453c11ef62178fd6f290692fd9fef087ec2c292ccd86"
   }
  ]
 }
