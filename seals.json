@@ -1,9 +1,9 @@
 {
  "schema": 1,
- "count": 246,
- "picks": 173,
+ "count": 247,
+ "picks": 174,
  "readings": 73,
- "head": "feaad616992159f0fdc5df91f8c969e8e277af814cc9f80b69a457d475a435cd",
+ "head": "828382ae71b17ce219abcce99f83ab0f30e7d0d35e5964c77437ce606da85247",
  "entries": [
   {
    "n": 1,
@@ -1480,6 +1480,12 @@
    "hash": "8f1564ee0709c084a5fd666d6c22705571e3b2ba58a556abc0d6bfdb1e2d650f",
    "sealed_at": "2026-11-24T18:51:00-05:00",
    "link": "feaad616992159f0fdc5df91f8c969e8e277af814cc9f80b69a457d475a435cd"
+  },
+  {
+   "n": 247,
+   "hash": "02f6d75d38a8918b6df8209b837ddced45277093a7b506a744a2e570c67dde4e",
+   "sealed_at": "2026-11-26T10:06:02-05:00",
+   "link": "828382ae71b17ce219abcce99f83ab0f30e7d0d35e5964c77437ce606da85247"
   }
  ]
 }
